@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5499"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5497" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5174"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5171"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5499-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5497-3" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5174-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="415.51126"
+     inkscape:cy="901.16645"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     objecttolerance="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.15400389"
+       id="rect10"
+       width="24.759384"
+       height="20.588169"
+       x="51.082092"
+       y="57.632832" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.30331126;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12"
+       width="24.448627"
+       height="12.692819"
+       x="51.11216"
+       y="79.152588" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.08137608"
+       id="rect10-3"
+       width="10.399453"
+       height="13.68602"
+       x="58.062321"
+       y="60.697174" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.04384582"
+       id="rect10-3-6"
+       width="5.1660376"
+       height="7.9982114"
+       x="53.419918"
+       y="61.483574" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.03655906"
+       id="rect10-3-6-7"
+       width="5.5368376"
+       height="5.1882682"
+       x="67.726265"
+       y="61.684677" />
+    <g
+       id="g110"
+       transform="matrix(0.68005047,0,0,0.71484485,44.003338,42.727319)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path61"
+         d="m 41.56041,29.864108 c 6.476937,-0.302581 13.530192,0.982576 18.344513,5.64619 3.707163,3.149347 4.884376,8.147755 5.275708,12.787958 0.456804,5.238018 0.514711,10.772648 3.172504,15.480733 1.146069,2.085975 2.79151,3.930744 4.878715,5.106469"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-5"
+         d="m 41.294452,30.6502 c 6.312706,-0.296479 13.187119,0.96276 17.879368,5.532316 3.613163,3.08583 4.760528,7.983429 5.141936,12.530046 0.445222,5.132378 0.50166,10.555385 3.092063,15.168513 1.117009,2.043905 2.720728,3.851469 4.755007,5.003481"
+         style="fill:none;stroke:#000000;stroke-width:0.25855991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.08159577"
+       id="rect10-3-3"
+       width="15.647513"
+       height="9.14501"
+       x="55.474728"
+       y="81.488953" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.95318973px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04882975"
+       x="60.307018"
+       y="69.74498"
+       id="text4641"><tspan
+         sodipodi:role="line"
+         id="tspan4639"
+         x="60.307018"
+         y="69.74498"
+         style="stroke-width:0.04882975">Sensor</tspan><tspan
+         sodipodi:role="line"
+         x="60.307018"
+         y="72.18647"
+         style="stroke-width:0.04882975"
+         id="tspan4643">Node</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.83862221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04596555"
+       x="29.694021"
+       y="75.849365"
+       id="text4647"><tspan
+         sodipodi:role="line"
+         id="tspan4645"
+         x="29.694021"
+         y="75.849365"
+         style="stroke-width:0.04596555">Cellular Modem</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.813847,74.449745 9.55292,-8.754228"
+       id="path4649"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.83862221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04596555"
+       x="71.916451"
+       y="53.399715"
+       id="text4647-5"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6"
+         x="71.916451"
+         y="53.399715"
+         style="stroke-width:0.04596555">Soil Moisture Interface</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.267189,62.256499 3.54426,-7.633783"
+       id="path4669"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.83862221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04596555"
+       x="86.473106"
+       y="60.033836"
+       id="text4647-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-9"
+         x="86.473106"
+         y="60.033836"
+         style="stroke-width:0.04596555">Soil Moisture Probe</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.352328,61.165959 -4.634796,5.180068"
+       id="path4689"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.392469,64.028741 -0.224906,0.610477"
+       id="path4691"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.032038,92.174937 c 1.13579,-0.304589 2.28115,-0.593509 3.41873,-0.157998 1.14247,-0.223004 2.27646,-0.365939 3.40304,0.0151 0.44855,0.05747 0.93806,0.01115 1.30685,-0.274812"
+       id="path4693"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.11457327;stroke-miterlimit:4;stroke-dasharray:0.11457325, 0.11457325;stroke-dashoffset:0"
+       id="path5054"
+       cx="74.997681"
+       cy="28.839321"
+       rx="11.508781"
+       ry="6.8785768" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.04906154px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05122654"
+       x="69.138809"
+       y="28.681225"
+       id="text5058"><tspan
+         sodipodi:role="line"
+         id="tspan5056"
+         x="69.138809"
+         y="28.681225"
+         style="stroke-width:0.05122654">Cloud-based</tspan><tspan
+         sodipodi:role="line"
+         x="69.138809"
+         y="31.242552"
+         style="stroke-width:0.05122654"
+         id="tspan5060">database</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.07876945px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05196923"
+       x="59.668591"
+       y="85.397865"
+       id="text4622"><tspan
+         sodipodi:role="line"
+         id="tspan4620"
+         x="59.668591"
+         y="85.397865"
+         style="stroke-width:0.05196923">12 V</tspan><tspan
+         sodipodi:role="line"
+         x="59.668591"
+         y="87.99633"
+         style="stroke-width:0.05196923"
+         id="tspan5062">battery</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.15400389"
+       id="rect10-5"
+       width="24.759384"
+       height="20.588169"
+       x="125.8398"
+       y="57.726849" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.30331126;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12-9"
+       width="24.448627"
+       height="12.692819"
+       x="125.86988"
+       y="79.246605" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.08137608"
+       id="rect10-3-4"
+       width="10.399453"
+       height="13.68602"
+       x="132.82004"
+       y="60.791183" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.04384582"
+       id="rect10-3-6-9"
+       width="5.1660376"
+       height="7.9982114"
+       x="128.17764"
+       y="61.577583" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.03655906"
+       id="rect10-3-6-7-0"
+       width="5.5368376"
+       height="5.1882682"
+       x="142.48398"
+       y="61.778687" />
+    <g
+       id="g110-9"
+       transform="matrix(0.68005047,0,0,0.71484485,118.76106,42.821334)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-1"
+         d="m 41.56041,29.864108 c 6.476937,-0.302581 13.530192,0.982576 18.344513,5.64619 3.707163,3.149347 4.884376,8.147755 5.275708,12.787958 0.456804,5.238018 0.514711,10.772648 3.172504,15.480733 1.146069,2.085975 2.79151,3.930744 4.878715,5.106469"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-5-7"
+         d="m 41.294452,30.6502 c 6.312706,-0.296479 13.187119,0.96276 17.879368,5.532316 3.613163,3.08583 4.760528,7.983429 5.141936,12.530046 0.445222,5.132378 0.50166,10.555385 3.092063,15.168513 1.117009,2.043905 2.720728,3.851469 4.755007,5.003481"
+         style="fill:none;stroke:#000000;stroke-width:0.25855991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.08159577"
+       id="rect10-3-3-7"
+       width="15.647513"
+       height="9.14501"
+       x="130.23245"
+       y="81.582962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.95318973px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04882975"
+       x="135.06473"
+       y="69.838997"
+       id="text4641-1"><tspan
+         sodipodi:role="line"
+         id="tspan4639-1"
+         x="135.06473"
+         y="69.838997"
+         style="stroke-width:0.04882975">Sensor</tspan><tspan
+         sodipodi:role="line"
+         x="135.06473"
+         y="72.280487"
+         style="stroke-width:0.04882975"
+         id="tspan4643-5">Node</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.83862221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04596555"
+       x="104.45174"
+       y="75.943382"
+       id="text4647-9"><tspan
+         sodipodi:role="line"
+         id="tspan4645-7"
+         x="104.45174"
+         y="75.943382"
+         style="stroke-width:0.04596555">Cellular Modem</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.57157,74.54376 9.55293,-8.754228"
+       id="path4649-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.83862221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04596555"
+       x="146.67418"
+       y="53.493732"
+       id="text4647-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-7"
+         x="146.67418"
+         y="53.493732"
+         style="stroke-width:0.04596555">Soil Moisture Interface</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.02492,62.350514 3.54426,-7.633783"
+       id="path4669-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.83862221px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04596555"
+       x="161.23083"
+       y="60.127853"
+       id="text4647-5-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-9-5"
+         x="161.23083"
+         y="60.127853"
+         style="stroke-width:0.04596555">Soil Moisture Probe</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.11006,61.259974 -4.6348,5.180068"
+       id="path4689-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.1502,64.122756 -0.22491,0.610477"
+       id="path4691-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17993003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 164.78977,92.268954 c 1.13579,-0.304591 2.28115,-0.593511 3.41873,-0.157999 1.14247,-0.223004 2.27646,-0.36594 3.40304,0.01511 0.44855,0.05747 0.93806,0.01114 1.30685,-0.274812"
+       id="path4693-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.07876945px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05196923"
+       x="134.4263"
+       y="85.491882"
+       id="text4622-4"><tspan
+         sodipodi:role="line"
+         id="tspan4620-8"
+         x="134.4263"
+         y="85.491882"
+         style="stroke-width:0.05196923">12 V</tspan><tspan
+         sodipodi:role="line"
+         x="134.4263"
+         y="88.090347"
+         style="stroke-width:0.05196923"
+         id="tspan5062-1">battery</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 54.854111,62.852223 67.623998,35.857182"
+       id="path5154"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5499)"
+       d="M 129.98344,63.874958 84.342896,34.267484"
+       id="path5154-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.95260286px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14881507"
+       x="95.335159"
+       y="13.383265"
+       id="text5641"><tspan
+         sodipodi:role="line"
+         id="tspan5639"
+         x="95.335159"
+         y="13.383265"
+         style="stroke-width:0.14881507">Phase I</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.58206195"
+       id="rect10-8"
+       width="93.578773"
+       height="77.813553"
+       x="80.446594"
+       y="184.33569" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.14637327;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12-8"
+       width="92.404259"
+       height="47.972858"
+       x="80.560234"
+       y="265.6702" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.30756316"
+       id="rect10-3-5"
+       width="39.305019"
+       height="51.726688"
+       x="106.82856"
+       y="195.91745" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.16571648"
+       id="rect10-3-6-0"
+       width="19.525181"
+       height="30.22946"
+       x="89.282471"
+       y="198.88968" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.13817598"
+       id="rect10-3-6-7-9"
+       width="20.92663"
+       height="19.609203"
+       x="143.3537"
+       y="199.64975" />
+    <g
+       id="g110-6"
+       transform="matrix(2.5702695,0,0,2.7017758,53.692248,127.99989)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-3"
+         d="m 41.56041,29.864108 c 6.476937,-0.302581 13.530192,0.982576 18.344513,5.64619 3.707163,3.149347 4.884376,8.147755 5.275708,12.787958 0.456804,5.238018 0.514711,10.772648 3.172504,15.480733 1.146069,2.085975 2.79151,3.930744 4.878715,5.106469"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-5-8"
+         d="m 41.294452,30.6502 c 6.312706,-0.296479 13.187119,0.96276 17.879368,5.532316 3.613163,3.08583 4.760528,7.983429 5.141936,12.530046 0.445222,5.132378 0.50166,10.555385 3.092063,15.168513 1.117009,2.043905 2.720728,3.851469 4.755007,5.003481"
+         style="fill:none;stroke:#000000;stroke-width:0.25855991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.30839348"
+       id="rect10-3-3-5"
+       width="59.140209"
+       height="34.563816"
+       x="97.048683"
+       y="274.50055" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38213444px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18455338"
+       x="115.31245"
+       y="230.11389"
+       id="text4641-6"><tspan
+         sodipodi:role="line"
+         id="tspan4639-11"
+         x="115.31245"
+         y="230.11389"
+         style="stroke-width:0.18455338">Sensor</tspan><tspan
+         sodipodi:role="line"
+         x="115.31245"
+         y="239.34155"
+         style="stroke-width:0.18455338"
+         id="tspan4643-59">Node</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.94912338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17372806"
+       x="-0.39020956"
+       y="253.18558"
+       id="text4647-8"><tspan
+         sodipodi:role="line"
+         id="tspan4645-4"
+         x="-0.39020956"
+         y="253.18558"
+         style="stroke-width:0.17372806">Cellular Modem</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 56.755589,247.89568 92.861114,214.80883"
+       id="path4649-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.94912338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17372806"
+       x="159.19063"
+       y="168.3365"
+       id="text4647-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-0"
+         x="159.19063"
+         y="168.3365"
+         style="stroke-width:0.17372806">Soil Moisture Interface</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.9572,201.81097 13.39563,-28.8521"
+       id="path4669-30"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.94912338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17372806"
+       x="214.20792"
+       y="193.41035"
+       id="text4647-5-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-9-4"
+         x="214.20792"
+         y="193.41035"
+         style="stroke-width:0.17372806">Soil Moisture Probe</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 217.53095,197.68924 -17.51734,19.57821"
+       id="path4689-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.98975,208.5092 -0.85004,2.30732"
+       id="path4691-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 227.65899,314.88853 c 4.29275,-1.1512 8.62167,-2.24319 12.92118,-0.59716 4.318,-0.84285 8.60395,-1.38308 12.86189,0.0571 1.69531,0.21721 3.54542,0.0421 4.93927,-1.03866"
+       id="path4693-7"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.43303284;stroke-miterlimit:4;stroke-dasharray:0.43303276, 0.43303276;stroke-dashoffset:0"
+       id="path5054-6"
+       cx="170.83623"
+       cy="75.509819"
+       rx="43.497757"
+       ry="25.99777" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.74448442px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19361213"
+       x="148.69246"
+       y="74.912292"
+       id="text5058-3"><tspan
+         sodipodi:role="line"
+         id="tspan5056-1"
+         x="148.69246"
+         y="74.912292"
+         style="stroke-width:0.19361213">Cloud-based</tspan><tspan
+         sodipodi:role="line"
+         x="148.69246"
+         y="84.592896"
+         style="stroke-width:0.19361213"
+         id="tspan5060-7">database</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.8567667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19641913"
+       x="112.89951"
+       y="289.27438"
+       id="text4622-5"><tspan
+         sodipodi:role="line"
+         id="tspan4620-9"
+         x="112.89951"
+         y="289.27438"
+         style="stroke-width:0.19641913">12 V</tspan><tspan
+         sodipodi:role="line"
+         x="112.89951"
+         y="299.09534"
+         style="stroke-width:0.19641913"
+         id="tspan5062-6">battery</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.58206195"
+       id="rect10-5-2"
+       width="93.578773"
+       height="77.813553"
+       x="362.99542"
+       y="184.69102" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.14637327;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12-9-1"
+       width="92.404259"
+       height="47.972858"
+       x="363.1091"
+       y="266.02554" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.30756316"
+       id="rect10-3-4-7"
+       width="39.305019"
+       height="51.726688"
+       x="389.37741"
+       y="196.27277" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.16571648"
+       id="rect10-3-6-9-8"
+       width="19.525181"
+       height="30.22946"
+       x="371.83136"
+       y="199.24498" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.13817598"
+       id="rect10-3-6-7-0-5"
+       width="20.92663"
+       height="19.609203"
+       x="425.90256"
+       y="200.00507" />
+    <g
+       id="g110-9-7"
+       transform="matrix(2.5702695,0,0,2.7017758,336.24112,128.35522)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-1-4"
+         d="m 41.56041,29.864108 c 6.476937,-0.302581 13.530192,0.982576 18.344513,5.64619 3.707163,3.149347 4.884376,8.147755 5.275708,12.787958 0.456804,5.238018 0.514711,10.772648 3.172504,15.480733 1.146069,2.085975 2.79151,3.930744 4.878715,5.106469"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path61-5-7-1"
+         d="m 41.294452,30.6502 c 6.312706,-0.296479 13.187119,0.96276 17.879368,5.532316 3.613163,3.08583 4.760528,7.983429 5.141936,12.530046 0.445222,5.132378 0.50166,10.555385 3.092063,15.168513 1.117009,2.043905 2.720728,3.851469 4.755007,5.003481"
+         style="fill:none;stroke:#000000;stroke-width:0.25855991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.30839348"
+       id="rect10-3-3-7-8"
+       width="59.140209"
+       height="34.563816"
+       x="379.59756"
+       y="274.85587" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38213444px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18455338"
+       x="397.8613"
+       y="230.46922"
+       id="text4641-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan4639-1-9"
+         x="397.8613"
+         y="230.46922"
+         style="stroke-width:0.18455338">Sensor</tspan><tspan
+         sodipodi:role="line"
+         x="397.8613"
+         y="239.69688"
+         style="stroke-width:0.18455338"
+         id="tspan4643-5-7">Node</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.94912338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17372806"
+       x="282.15863"
+       y="253.54092"
+       id="text4647-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan4645-7-3"
+         x="282.15863"
+         y="253.54092"
+         style="stroke-width:0.17372806">Cellular Modem</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 339.30447,248.25101 36.10556,-33.08685"
+       id="path4649-7-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.94912338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17372806"
+       x="441.73953"
+       y="168.69185"
+       id="text4647-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-7-3"
+         x="441.73953"
+         y="168.69185"
+         style="stroke-width:0.17372806">Soil Moisture Interface</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 435.50611,202.1663 13.39562,-28.8521"
+       id="path4669-3-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.94912338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17372806"
+       x="496.75681"
+       y="193.76569"
+       id="text4647-5-2-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan4645-6-9-5-9"
+         x="496.75681"
+         y="193.76569"
+         style="stroke-width:0.17372806">Soil Moisture Probe</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 500.07986,198.04457 -17.51735,19.57821"
+       id="path4689-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 443.53866,208.86454 -0.85005,2.30731"
+       id="path4691-3-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68005049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 510.2079,315.24387 c 4.29275,-1.15121 8.62167,-2.24319 12.92119,-0.59716 4.31799,-0.84285 8.60394,-1.38308 12.86188,0.0571 1.69531,0.2172 3.54542,0.0421 4.93928,-1.03866"
+       id="path4693-9-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.8567667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19641913"
+       x="395.44833"
+       y="289.62973"
+       id="text4622-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan4620-8-3"
+         x="395.44833"
+         y="289.62973"
+         style="stroke-width:0.19641913">12 V</tspan><tspan
+         sodipodi:role="line"
+         x="395.44833"
+         y="299.45068"
+         style="stroke-width:0.19641913"
+         id="tspan5062-1-8">battery</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.37795275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.13385828, 1.13385828000000011;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)"
+       d="M 94.703044,204.06252 142.96718,102.03402"
+       id="path5154-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.37795275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.13385828, 1.13385828000000011;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5499-9)"
+       d="M 378.65642,207.92798 206.15672,96.025711"
+       id="path5154-2-0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
