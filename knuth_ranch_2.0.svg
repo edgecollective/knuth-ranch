@@ -174,9 +174,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1312406"
-     inkscape:cx="-395.53773"
-     inkscape:cy="767.78442"
+     inkscape:zoom="1.1244491"
+     inkscape:cx="-363.12761"
+     inkscape:cy="801.34283"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1305,7 +1305,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g2511"
-       transform="translate(-5.6133063,21.517674)">
+       transform="translate(-6.3192075,19.16467)">
       <ellipse
          ry="9.9144468"
          rx="16.588198"
@@ -1749,7 +1749,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g2474"
-       transform="translate(-1.871102,-1.4033266)">
+       transform="translate(-3.9888057,-1.1680262)">
       <rect
          transform="rotate(-0.39909534)"
          y="62.694904"
@@ -1777,8 +1777,8 @@
            sodipodi:role="line">Node&quot;</tspan></text>
     </g>
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.3537837;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.70756741, 0.70756741000000001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1238-75)"
-       d="m -149.17546,81.795226 36.04674,-11.557439"
+       style="fill:#000000;stroke:#000000;stroke-width:0.3537837;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.70756741, 0.70756741;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1238-75)"
+       d="m -149.72547,81.269043 35.26598,-13.75691"
        id="path399-9"
        inkscape:connector-curvature="0" />
   </g>
